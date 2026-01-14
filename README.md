@@ -22,7 +22,7 @@ A modern portfolio showcasing my mission to integrate AI technologies with susta
 ## 📞 Contact
 - **GitHub**: [@LebohangNthama](https://github.com/LebohangNthama)
 - **Portfolio**: [leborahang-alexis.nthama.github.io](https://leborahang-alexis.nthama.github.io)
--**Contact_details**: +27636184732
+- **Contact_details**: +27636184732
 ---
 
 *Built with purpose for a sustainable future • Hosted on GitHub Pages*
