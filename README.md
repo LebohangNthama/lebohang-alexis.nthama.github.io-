@@ -11,18 +11,18 @@ About Lebohang Alexis Nthama
 A modern portfolio showcasing my mission to integrate AI technologies with sustainable engineering practices and climate-positive business strategy.
 
 ## 🚀 Live Site
-**Visit:** [https://leborahang-alexis.nthama.github.io](https://leborahang-alexis.nthama.github.io)
+**Visit:** [https://lebohang-alexis.nthama.github.io](https://leborahang-alexis.nthama.github.io)
 
 ## 🎯 Professional Focus
 - **🤖 Applied AI in Engineering**: ML for sustainable design & manufacturing
 - **🌍 Climate-Positive Business**: Aligning profitability with planetary boundaries  
 - **⚡ Sustainable Innovation**: Circular economy product development
-
-## 🛠️ Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Icons**: Font Awesome 6.4.0
-- **Fonts**: Google Fonts (Inter, Space Grotesk)
-- **Hosting**: GitHub Pages
-- **Performance**: 100% client-side, no build process
-
 ## 📁 Project Structure
+
+## 📞 Contact
+- **GitHub**: [@LebohangNthama](https://github.com/LebohangNthama)
+- **Portfolio**: [leborahang-alexis.nthama.github.io](https://leborahang-alexis.nthama.github.io)
+-**Contact_details**: +27636184732
+---
+
+*Built with purpose for a sustainable future • Hosted on GitHub Pages*
